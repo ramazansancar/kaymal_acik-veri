@@ -27,7 +27,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
   - [Türkiye Ulusal Coğrafi Açık Veri Portalı](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
 - [Hava Kalitesi Veri Bankası](https://sim.csb.gov.tr/STN/STN_Report/DataBank)
 - [T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllık Şehir Açık Veri Platformu (ULASAV)](https://ulasav.csb.gov.tr/)
-  
+
 ## Belediyeler ve Sehirler
 
 - [Ankara Büyükşehir Belediyesi Açık Veri Portalı](https://seffaf.ankara.bel.tr/)
