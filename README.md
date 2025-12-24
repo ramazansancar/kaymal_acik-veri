@@ -24,6 +24,7 @@ Türkiye'nin açık veri platformları ve veri setleri kategoriler halinde hazı
 - [Hava Kalitesi Veri Bankası](https://sim.csb.gov.tr/STN/STN_Report/DataBank)
 - [Hazine ve Maliye Bakanlığı](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
 - [İçişleri Bakanlığı Sivil Toplumla İlişkiler Genel Müdürlüğü](https://www.siviltoplum.gov.tr/dernekler-bilgi-sistemi-derbis)
+- [İzmir Kalkınma Ajansı - İZKA](https://dataizmir.izka.org.tr/dataset/)
 - [Meteoroloji Genel Müdürlüğü](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
 - [Milli Kütüphane Türkiye Makale Bibliyografileri](https://makaler.mkutup.gov.tr/Default.aspx)
 - [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr)
